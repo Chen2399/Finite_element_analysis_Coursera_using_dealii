@@ -1,0 +1,11 @@
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/rebuild_cache.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/edit_cache.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/info.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/strip_comments.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/distclean.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/runclean.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/main2b.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/run.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/release.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/sign.dir
+/Users/ianm/Desktop/CA2_template/CA2_template/CA2b/CMakeFiles/debug.dir

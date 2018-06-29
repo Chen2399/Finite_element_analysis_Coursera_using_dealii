@@ -1,0 +1,11 @@
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/rebuild_cache.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/edit_cache.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/info.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/strip_comments.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/distclean.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/runclean.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/main4.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/run.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/release.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/sign.dir
+/Users/ianm/Dropbox/Finite_element_method/Coursera_UM_computer_assignment/CA4_template/CMakeFiles/debug.dir
